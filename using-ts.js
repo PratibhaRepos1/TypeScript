@@ -1,2 +1,2 @@
-var inum = 10;
-console.log(inum);
+var title = "This is typescript";
+console.log(title);

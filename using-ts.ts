@@ -1,2 +1,2 @@
-const inum: number = 10;
-console.log(inum);
+let title = "This is typescript. It's awesome";
+console.log(title);
